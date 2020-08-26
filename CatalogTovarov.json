@@ -1,6 +1,6 @@
-{
-    {"id": 1, "title": "Iphone", "price": 10, "img": "https://img.mvideo.ru/Pdb/30047952m.jpg"}
-    {"id": 2, "title": "Телевизор LG 24LK451V-PZ', "price": 20, "img": "https://img.mvideo.ru/Pdb/10020719m.jpg"}
-    {"id": 3, "title": "Телевизор Telefunken TF-LED32S15T2S", "price": 30, "img": "https://img.mvideo.ru/Pdb/10024394m.jpg"}
+[
+    {"id": 1, "title": "Iphone", "price": 10, "img": "https://img.mvideo.ru/Pdb/30047952m.jpg"},
+    {"id": 2, "title": "Телевизор LG 24LK451V-PZ', "price": 20, "img": "https://img.mvideo.ru/Pdb/10020719m.jpg"},
+    {"id": 3, "title": "Телевизор Telefunken TF-LED32S15T2S", "price": 30, "img": "https://img.mvideo.ru/Pdb/10024394m.jpg"},
     {"id": 4, "title": "Телевизор Samsung UE58TU7570U", "price": 40, "img": "https://img.mvideo.ru/Pdb/10023930m.jpg"}
-}
+]
