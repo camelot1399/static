@@ -1,4 +1,6 @@
 [
     {"id": 1, "name": "Сыр", "nameEng": "cheese"},
-    {"id": 2, "name": "Картошка", "nameEng": "potato"}
+    {"id": 2, "name": "Картошка", "nameEng": "potato"},
+    {"id": 3, "name": "Салат", "nameEng": "salad"},
+    {"id": 4, "name": "Пирожок", "nameEng": "pirojok"},
 ]
