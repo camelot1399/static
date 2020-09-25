@@ -1,6 +1,8 @@
 [
-    {"id": 1, "name": "Сыр", "nameEng": "cheese"},
-    {"id": 2, "name": "Картошка", "nameEng": "potato"},
-    {"id": 3, "name": "Салат", "nameEng": "salad"},
-    {"id": 4, "name": "Пирожок", "nameEng": "pirojok"}
+    {"id": 1, "name": "Сыр", "nameEng": "cheese", "count": 1, "price": 15, "list": 1},
+    {"id": 2, "name": "Картошка", "nameEng": "potato", "count": 1, "price": 30, "list": 1},
+    {"id": 3, "name": "Салат", "nameEng": "salad", "count": 1, "price": 15, "list": 1},
+    {"id": 4, "name": "Пирожок", "nameEng": "pirojok", "count": 1, "price": 10, "list": 2},
+    {"id": 5, "name": "Майонез", "nameEng": "maionez", "count": 1, "price": 5, "list": 2},
+    {"id": 6, "name": "Приправа", "nameEng": "priprava", "count": 1, "price": 5, "list": 2}
 ]
