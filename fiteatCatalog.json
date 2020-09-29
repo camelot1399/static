@@ -6,7 +6,8 @@
             "productName": "Макарошка",
             "protein": 100,
             "fat": 2,
-            "carb": 20
+            "carb": 20,
+            "ccal": 300
         },
         "groupeName": "Макароны", 
         "img": "https://sbermarket.ru/spree/products/52481/preview/55753.jpg?1587399672"
@@ -18,7 +19,8 @@
             "productName": "Макарошка2",
             "protein": 100,
             "fat": 2,
-            "carb": 20
+            "carb": 20,
+            "ccal": 300
         },
         "groupeName": "Макароны2", 
         "img": "https://sbermarket.ru/spree/products/52481/preview/55753.jpg?1587399672"
