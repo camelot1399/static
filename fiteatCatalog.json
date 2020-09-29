@@ -18,7 +18,7 @@
         "products": {
             "id": 2,
             "quantity": 1,
-            "productName": "Макарошка2",
+            "productName": "Сыр",
             "protein": 100,
             "fat": 2,
             "carb": 20,
