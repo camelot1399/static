@@ -1,6 +1,21 @@
 [
-    {"id": 1, "nameProduct": "Макарошка", "groupeName": "Макароны", "img": "https://sbermarket.ru/spree/products/52481/preview/55753.jpg?1587399672"},
-    {"id": 2, "nameProduct": "Колбаска", "groupeName": "Колбаса", "img": "https://sbermarket.ru/spree/products/95369/preview/99896.jpg?1599222729"},
-    {"id": 3, "nameProduct": "Сырок", "groupeName": "Сыр", "img": "https://sbermarket.ru/spree/products/132922/small/99533.jpg?1555493876"},
-    {"id": 4, "nameProduct": "Сочок", "groupeName": "Соки", "img": "https://sbermarket.ru/spree/products/17590/preview/30018.jpg?1600249434"}
+    {
+        "id": 1, 
+        "products": {
+            "id": 1,
+            "productName": "Макарошка"
+        },
+        "groupeName": "Макароны", 
+        "img": "https://sbermarket.ru/spree/products/52481/preview/55753.jpg?1587399672"
+    },
+    {
+        "id": 2, 
+        "products": {
+            "id": 1,
+            "productName": "Макарошка2"
+        },
+        "groupeName": "Макароны2", 
+        "img": "https://sbermarket.ru/spree/products/52481/preview/55753.jpg?1587399672"
+    },
+   
 ]
