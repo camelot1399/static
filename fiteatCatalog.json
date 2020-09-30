@@ -19,15 +19,15 @@
         "products": {
             "id": 2,
             "quantity": 1,
-            "productName": "Сыр",
+            "productName": "Кукуруза мини",
             "protein": 100,
             "fat": 2,
             "carb": 20,
             "ccal": 300,
-            "img": "https://sbermarket.ru/spree/products/52481/preview/55753.jpg?1587399672"
+            "img": "https://sbermarket.ru/spree/products/8727/preview/10813.jpg?1587399325"
         },
-        "groupeName": "Макароны2", 
-        "img": "https://sbermarket.ru/spree/products/52481/preview/55753.jpg?1587399672"
+        "groupeName": "Овощи и фрукты", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
     }
    
 ]
