@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1, 
+        "groupeName": "Макароны", 
+        "img": "https://sbermarket.ru/spree/products/52481/preview/55753.jpg?1587399672"
+    },
+    {
+        "id": 2, 
+        "groupeName": "Овощи и фрукты", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
+    }
+   
+]
