@@ -46,6 +46,17 @@
         "carb": 20,
         "ccal": 300,
         "img": "https://sbermarket.ru/spree/products/155776/small/134905.jpg?1589653732"
+    },
+    {
+        "id": 5,
+        "groupeId": 7,
+        "groupeName": "Яйца",
+        "quantity": 1,
+        "productName": "Яйца",
+        "protein": 100,
+        "fat": 2,
+        "carb": 20,
+        "ccal": 300,
+        "img": "img/products/eags.jpg"
     }
-   
 ]
