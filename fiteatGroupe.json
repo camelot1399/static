@@ -8,6 +8,46 @@
         "id": 2, 
         "groupeName": "Овощи и фрукты", 
         "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
+    },
+    {
+        "id": 3, 
+        "groupeName": "Бакалея", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
+    },
+    {
+        "id": 4, 
+        "groupeName": "Каши", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
+    },
+    {
+        "id": 5, 
+        "groupeName": "Сыры", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
+    },
+    {
+        "id": 6, 
+        "groupeName": "Колбасы, сосиски, деликатесы", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
+    },
+    {
+        "id": 7, 
+        "groupeName": "Яйца", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
+    },
+    {
+        "id": 8, 
+        "groupeName": "Хлеб и выпечка", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
+    },
+    {
+        "id": 9, 
+        "groupeName": "Рыбы и морепродукты", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
+    },
+    {
+        "id": 10, 
+        "groupeName": "Мясо и птица", 
+        "img": "https://sbermarket.ru/spree/taxons/4232/normal/2000000.png?1587987443"
     }
    
 ]
