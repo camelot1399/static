@@ -1,6 +1,6 @@
 [
-    "Авокадо" => "https://sbermarket.ru/spree/products/202091/small/188255.jpg?1587402680",
-    "Баклажан" => "https://sbermarket.ru/spree/products/13560/small/25913.jpg?1587399407",
-    "Картофель" => "https://sbermarket.ru/spree/products/198018/small/123946.jpg?1587401725",
-    "Кукуруза" => "https://sbermarket.ru/spree/products/8727/small/10813.jpg?1587399325"
+    {"Авокадо": "https://sbermarket.ru/spree/products/202091/small/188255.jpg?1587402680"},
+    {"Баклажан": "https://sbermarket.ru/spree/products/13560/small/25913.jpg?1587399407"},
+    {"Картофель": "https://sbermarket.ru/spree/products/198018/small/123946.jpg?1587401725"},
+    {"Кукуруза": "https://sbermarket.ru/spree/products/8727/small/10813.jpg?1587399325"}
 ]
